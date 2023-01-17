@@ -1,0 +1,2 @@
+jira issue list -q "project = MAG AND fixVersion = Elektra" --plain --paginate 0:100
+jira issue list -q "project = MAG AND fixVersion = Elektra" --plain --paginate 100:100
